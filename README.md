@@ -1,0 +1,2 @@
+# quicksupport
+GitHub Pages
